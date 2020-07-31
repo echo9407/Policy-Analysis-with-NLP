@@ -71,6 +71,7 @@ Our team has drafted a time schedule for our analysis as follows, and have stric
 ● Week 12-13: Prepare for the final team presentation
 
 **Budget:**
+
 This project uses data programming to algorithmically label training data based on a small, hand-made gold standard. The current pipeline is from noisy labeling, RoBERTa encoding, to LSTM and the main techniques used are Snorkel and RoBERTa. our team plans to further explore the data provided by WRI by focusing on Label Model Optimization (BabbleLabble vs. Snorkel) and Neural Networks Optimization (RNN and RoBERTa). Therefore, no budget is needed for our project to carry out the analysis on data provided by WRI. The goal of this project is to develop a global policy analysis framework for restoration proposals using policies from India, Brazil, and Mexico as references. While these countries were selected based on existing available WRI data and resources, we believe that the policy analysis framework developed is versatile and therefore can be modified to scrutinize worldwide restoration initiatives despite limited resources and financial budget.
 
 Additionally, our team has tried running the codes locally, which resulted in both huge computation costs and time costs. Therefore, our team plans to continue our work on training the model on Google Cloud Platform, which can reduce the time costs and lead to better model performance without increasing our budget.
