@@ -1,4 +1,4 @@
-#  Policy Analysis with NLP
+#  World Resources Institute Policy Analysis with NLP
 
 ### 1. Introduction
 
